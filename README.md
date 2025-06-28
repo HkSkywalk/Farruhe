@@ -13,7 +13,7 @@
 
   <h2>Portfolio:</h2>
   <div class="project">
-    <h3>Logo Dizayn — Farzona Studio</h3>
+    <h3>Logo Dizayn — Studio</h3>
     <p>Minimalistik logo, Illustrator va Figma’da tayyorlangan</p>
   </div>
 
